@@ -4,7 +4,6 @@ public class Problem1_ActivitySelection {
         int[][] pairs = {{1,2},{2,3},{3,4}};
         System.out.println(activity_selection(pairs));
     }
-
     static class Pair{
         int start;
         int end;
